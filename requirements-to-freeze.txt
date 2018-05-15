@@ -1,0 +1,7 @@
+scrypt>=0.8.6
+
+# dev requirements
+flake8
+mock
+pytest
+pytest-cov
